@@ -31,7 +31,8 @@ These workbooks help visualize authentication activity, Azure resource changes, 
 
 ###  Malicious Traffic Entering the Network | [Allowed-Inbound-Malicious-Flows.json](./Allowed-Inbound-Malicious-Flows.json) 
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/59db8325-b781-49b9-af9a-3954256c8e3e" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/af6cfd14-fcd1-44b2-8eee-a3a6176e6e06" />
+
 
 ---
 
