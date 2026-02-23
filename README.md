@@ -10,13 +10,16 @@ These workbooks help visualize authentication activity, Azure resource changes, 
 
 ## 📦 Included Workbooks
 
-| Scenario | File |
-|---------|------|
-| Entra ID (Azure) Authentication Success | [Directory-Login-Successes.json](./Directory-Login-Successes.json) |
-| Entra ID (Azure) Authentication Failures | [Directory-Login-Failures.json](./Directory-Login-Failures.json) |
-| Azure Resource Creation | [Azure-Resource-Creation.json](./Azure-Resource-Creation.json) |
-| VM Authentication Failures | [VM-Authentication-Failures.json](./VM-Authentication-Failures.json) |
-| Malicious Traffic Entering the Network | [Allowed-Inbound-Malicious-Flows.json](./Allowed-Inbound-Malicious-Flows.json) |
+
+### Entra ID (Azure) Authentication Success | [Directory-Login-Successes.json](./Directory-Login-Successes.json)
+
+###  Entra ID (Azure) Authentication Failures | [Directory-Login-Failures.json](./Directory-Login-Failures.json)
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5af11cc7-f7e3-47d2-b6c1-c10c46d28e1a" />
+
+###  Azure Resource Creation | [Azure-Resource-Creation.json](./Azure-Resource-Creation.json)
+###  VM Authentication Failures | [VM-Authentication-Failures.json](./VM-Authentication-Failures.json)
+###  Malicious Traffic Entering the Network | [Allowed-Inbound-Malicious-Flows.json](./Allowed-Inbound-Malicious-Flows.json) 
 
 ---
 
