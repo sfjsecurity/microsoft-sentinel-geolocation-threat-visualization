@@ -1,1 +1,1 @@
-# microsoft-sentinel-geolocation-threat-visualization
+# Microsoft Sentinel Global Threat Visualization Lab
