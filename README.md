@@ -13,6 +13,9 @@ These workbooks help visualize authentication activity, Azure resource changes, 
 
 ### Entra ID (Azure) Authentication Success | [Directory-Login-Successes.json](./Directory-Login-Successes.json)
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/402a5c31-80cc-4b3b-b65d-8d12c6d11cd8" />
+
+
 ###  Entra ID (Azure) Authentication Failures | [Directory-Login-Failures.json](./Directory-Login-Failures.json)
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5af11cc7-f7e3-47d2-b6c1-c10c46d28e1a" />
