@@ -26,7 +26,7 @@ These workbooks help visualize authentication activity, Azure resource changes, 
 
 ###  VM Authentication Failures | [VM-Authentication-Failures.json](./VM-Authentication-Failures.json)
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7db6612a-21b5-4b88-a5ed-34af9c86bec3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/94b13d86-c63c-46be-94db-6ea086b4692a" />
 
 
 ###  Malicious Traffic Entering the Network | [Allowed-Inbound-Malicious-Flows.json](./Allowed-Inbound-Malicious-Flows.json) 
